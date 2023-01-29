@@ -1,8 +1,8 @@
 ![Logo](https://github.com/mattblasa/ML_Engineering/blob/main/images/main.png)
 
-#About
+# About
 
-#Links
+# Links
 
 Subscribe to:
 - [DataLife360](https://www.youtube.com/@datalife360) for Data Science videos and tutorials 
@@ -16,6 +16,7 @@ To download the code in this repo, you can simply use git clone
 git clone https://github.com/mattblasa/ML_Engineering
 ```
 
+<br>
 
 | Projects and Notebooks |
 | ---------------------- |
