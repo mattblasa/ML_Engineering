@@ -14,7 +14,7 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
-## Intial Steps 
+# Intial Steps 
 
 Run `deploy.ipynb` to generate the pickle file.
 
