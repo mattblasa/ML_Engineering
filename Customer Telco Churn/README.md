@@ -1,3 +1,5 @@
+![Logo](images/title.png)
+
 ## Dataset Info: 
 
 **Customer Telco Churn**
