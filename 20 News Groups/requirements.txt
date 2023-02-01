@@ -1,0 +1,17 @@
+certifi
+chardet
+click
+Flask
+Flask-PyMongo
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+pymongo
+requests
+scikit-learn
+scipy
+urllib3
+Werkzeug
